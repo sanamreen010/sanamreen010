@@ -1,5 +1,5 @@
 -  👋 Hi, I'm Sana Amreen
-- Data Data Everywhere!!
+- Data Data Everywhere!! Tremendous amount of data is being generated every second! Lets make sense of this data!
 - My passion is to translate data into valuable insights!!
 - And all my Github projects resonate with my passion!
 - 🌱 I’m currently learning python
